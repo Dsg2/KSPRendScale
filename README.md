@@ -8,7 +8,7 @@ Known issues:
  - some scale percentages may cause artifacts
  - motion blur setting in TUFX may case screen to become permanently blurry
 
-# Showcase (Intel Iris Xe):
+# Showcase (Uncapped FPS, Intel Iris Xe):
 ## Menu screen: (measuring GPU load)
 100% render scale: 100% GPU usage
 <img width="1277" height="715" alt="KSP-RS-menu100load100" src="https://github.com/user-attachments/assets/9acd9090-c3e7-45d2-8822-d953ce561add" />
@@ -26,5 +26,8 @@ Known issues:
 ## Flight (measuring FPS, weather conditions changed so a fair test couldn't be recreated)
 100% render scale: 26fps
 <img width="1277" height="719" alt="KSP-RS-flight100load100fps26" src="https://github.com/user-attachments/assets/b460389c-60d6-4916-938a-80f7c1302126" />
-100% render scale: 31fps
+80% render scale: 31fps
 <img width="1274" height="713" alt="KSP-RS-flight80load100fps31" src="https://github.com/user-attachments/assets/4c73855b-7142-4cef-8ea0-7e29fef7b600" />
+## Capped FPS:
+60% render scale: 36fps (capped) and 78% GPU load
+<img width="1274" height="716" alt="KSP-RS-flight60load78fps36" src="https://github.com/user-attachments/assets/c80a7135-5fb0-4e88-b5c6-1936299434cb" />
